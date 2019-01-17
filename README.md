@@ -1,2 +1,2 @@
-# uni-jf-hello-world
+# uni-js-hello-world
 hello-world
