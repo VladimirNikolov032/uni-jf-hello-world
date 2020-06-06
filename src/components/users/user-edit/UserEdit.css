@@ -1,0 +1,16 @@
+.user-edit-form {
+    border: 1px solid black;
+    width: 700px;
+    padding: 25;
+    background-color: #c7c6c1;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px 5px;
+}
+
+.user-edit-wrapper{
+    display: flex;
+    height: 90vh;
+    justify-content: center;
+    align-items: center;
+}
